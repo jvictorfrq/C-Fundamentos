@@ -1,0 +1,7 @@
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresTernários\OperadoresTernários\bin\Debug\OperadoresTernários.exe.config
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresTernários\OperadoresTernários\bin\Debug\OperadoresTernários.exe
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresTernários\OperadoresTernários\bin\Debug\OperadoresTernários.pdb
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresTernários\OperadoresTernários\obj\Debug\OperadoresTernários.csprojAssemblyReference.cache
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresTernários\OperadoresTernários\obj\Debug\OperadoresTernários.csproj.CoreCompileInputs.cache
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresTernários\OperadoresTernários\obj\Debug\OperadoresTernários.exe
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresTernários\OperadoresTernários\obj\Debug\OperadoresTernários.pdb

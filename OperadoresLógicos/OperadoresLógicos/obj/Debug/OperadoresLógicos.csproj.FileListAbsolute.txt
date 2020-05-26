@@ -1,0 +1,7 @@
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresLógicos\OperadoresLógicos\bin\Debug\OperadoresLógicos.exe.config
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresLógicos\OperadoresLógicos\bin\Debug\OperadoresLógicos.exe
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresLógicos\OperadoresLógicos\bin\Debug\OperadoresLógicos.pdb
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresLógicos\OperadoresLógicos\obj\Debug\OperadoresLógicos.csprojAssemblyReference.cache
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresLógicos\OperadoresLógicos\obj\Debug\OperadoresLógicos.csproj.CoreCompileInputs.cache
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresLógicos\OperadoresLógicos\obj\Debug\OperadoresLógicos.exe
+C:\Users\keste\Desktop\C#  Fundamento\OperadoresLógicos\OperadoresLógicos\obj\Debug\OperadoresLógicos.pdb

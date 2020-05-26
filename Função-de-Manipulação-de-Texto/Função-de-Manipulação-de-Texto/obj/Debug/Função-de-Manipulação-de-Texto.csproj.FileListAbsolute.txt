@@ -1,0 +1,7 @@
+C:\Users\keste\Desktop\C#  Fundamento\Função-de-Manipulação-de-Texto\Função-de-Manipulação-de-Texto\bin\Debug\Função-de-Manipulação-de-Texto.exe.config
+C:\Users\keste\Desktop\C#  Fundamento\Função-de-Manipulação-de-Texto\Função-de-Manipulação-de-Texto\bin\Debug\Função-de-Manipulação-de-Texto.exe
+C:\Users\keste\Desktop\C#  Fundamento\Função-de-Manipulação-de-Texto\Função-de-Manipulação-de-Texto\bin\Debug\Função-de-Manipulação-de-Texto.pdb
+C:\Users\keste\Desktop\C#  Fundamento\Função-de-Manipulação-de-Texto\Função-de-Manipulação-de-Texto\obj\Debug\Função-de-Manipulação-de-Texto.csprojAssemblyReference.cache
+C:\Users\keste\Desktop\C#  Fundamento\Função-de-Manipulação-de-Texto\Função-de-Manipulação-de-Texto\obj\Debug\Função-de-Manipulação-de-Texto.csproj.CoreCompileInputs.cache
+C:\Users\keste\Desktop\C#  Fundamento\Função-de-Manipulação-de-Texto\Função-de-Manipulação-de-Texto\obj\Debug\Função-de-Manipulação-de-Texto.exe
+C:\Users\keste\Desktop\C#  Fundamento\Função-de-Manipulação-de-Texto\Função-de-Manipulação-de-Texto\obj\Debug\Função-de-Manipulação-de-Texto.pdb

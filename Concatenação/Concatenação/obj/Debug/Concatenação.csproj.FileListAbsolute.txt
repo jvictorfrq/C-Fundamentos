@@ -1,0 +1,7 @@
+C:\Users\keste\Desktop\C#  Fundamento\Concatenação\Concatenação\bin\Debug\Concatenação.exe.config
+C:\Users\keste\Desktop\C#  Fundamento\Concatenação\Concatenação\bin\Debug\Concatenação.exe
+C:\Users\keste\Desktop\C#  Fundamento\Concatenação\Concatenação\bin\Debug\Concatenação.pdb
+C:\Users\keste\Desktop\C#  Fundamento\Concatenação\Concatenação\obj\Debug\Concatenação.csprojAssemblyReference.cache
+C:\Users\keste\Desktop\C#  Fundamento\Concatenação\Concatenação\obj\Debug\Concatenação.csproj.CoreCompileInputs.cache
+C:\Users\keste\Desktop\C#  Fundamento\Concatenação\Concatenação\obj\Debug\Concatenação.exe
+C:\Users\keste\Desktop\C#  Fundamento\Concatenação\Concatenação\obj\Debug\Concatenação.pdb

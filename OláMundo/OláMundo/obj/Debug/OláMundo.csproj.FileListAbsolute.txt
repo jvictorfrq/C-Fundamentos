@@ -1,0 +1,7 @@
+C:\Users\keste\Desktop\C#  Fundamento\OláMundo\OláMundo\bin\Debug\OláMundo.exe.config
+C:\Users\keste\Desktop\C#  Fundamento\OláMundo\OláMundo\bin\Debug\OláMundo.exe
+C:\Users\keste\Desktop\C#  Fundamento\OláMundo\OláMundo\bin\Debug\OláMundo.pdb
+C:\Users\keste\Desktop\C#  Fundamento\OláMundo\OláMundo\obj\Debug\OláMundo.csprojAssemblyReference.cache
+C:\Users\keste\Desktop\C#  Fundamento\OláMundo\OláMundo\obj\Debug\OláMundo.csproj.CoreCompileInputs.cache
+C:\Users\keste\Desktop\C#  Fundamento\OláMundo\OláMundo\obj\Debug\OláMundo.exe
+C:\Users\keste\Desktop\C#  Fundamento\OláMundo\OláMundo\obj\Debug\OláMundo.pdb
